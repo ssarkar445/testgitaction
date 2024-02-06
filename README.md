@@ -1,2 +1,2 @@
 # testgitaction
-GitHub Action
+GitHub Action Sample
